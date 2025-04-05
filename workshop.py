@@ -17,7 +17,7 @@ df = pd.DataFrame(data.data, columns=data.feature_names)
 df['target'] = data.target
 
 def main():
-    st.title("Streamlit Demo for ML Model on Iris Dataset")
+    st.title("Streamlit Demo for ML Model on Iris Dataset--Suniel Timilsina")
 
     # Sidebar for user input
     st.sidebar.header("Model Configuration")
